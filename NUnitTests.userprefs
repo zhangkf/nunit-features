@@ -2,15 +2,16 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="NUnitTests/NUnitTest.cs">
     <Files>
-      <File FileName="NUnitTests/NUnitTest.cs" Line="10" Column="15" />
-      <File FileName="NUnitTests/Action/TestAction1Attribute.cs" Line="6" Column="35" />
-      <File FileName="NUnitTests/Action/TestAction2Attribute.cs" Line="21" Column="3" />
+      <File FileName="NUnitTests/NUnitTest.cs" Line="14" Column="12" />
+      <File FileName="NUnitTests/Action/TestAction1Attribute.cs" Line="1" Column="1" />
+      <File FileName="NUnitTests/Action/TestAction2Attribute.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State expanded="True">
-          <Node name="NUnitTests" expanded="True" selected="True">
+          <Node name="NUnitTests" expanded="True">
             <Node name="Action" expanded="True" />
+            <Node name="NUnitTest.cs" selected="True" />
           </Node>
         </State>
       </Pad>
